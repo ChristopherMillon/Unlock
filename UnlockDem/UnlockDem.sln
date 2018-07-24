@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnlockDem", "UnlockDem\UnlockDem.csproj", "{16E7A117-9AF9-4CE5-83D5-3CD197BB119A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnlockDemConsole", "UnlockDemConsole\UnlockDemConsole.csproj", "{27B8B791-9744-43D5-8755-1B3DE3CA51D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16E7A117-9AF9-4CE5-83D5-3CD197BB119A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E7A117-9AF9-4CE5-83D5-3CD197BB119A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E7A117-9AF9-4CE5-83D5-3CD197BB119A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E7A117-9AF9-4CE5-83D5-3CD197BB119A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B8B791-9744-43D5-8755-1B3DE3CA51D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B8B791-9744-43D5-8755-1B3DE3CA51D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B8B791-9744-43D5-8755-1B3DE3CA51D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B8B791-9744-43D5-8755-1B3DE3CA51D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF4B3B6-54A4-417A-8043-75CBE779342E}
+	EndGlobalSection
+EndGlobal
